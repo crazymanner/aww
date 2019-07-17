@@ -81,7 +81,7 @@ code {
 .cardbox {
   /*border: solid 1px red;*/
   margin: 5em auto;
-  width: 1020px;
+  max-width: 1020px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -90,10 +90,9 @@ code {
 
 .card {
   flex: 0 1 25%;
-  margin-top: 1.2em;
-  margin-left: 1.2em;
-  min-width: 240px;
-  max-width: 600px;
+  margin: 1.2em;
+  min-width: 90%;
+  max-width: 90%;
   min-height: 100px;
   max-height: 240px;
   background-color: #ffffff;
