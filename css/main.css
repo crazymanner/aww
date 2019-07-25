@@ -29,7 +29,7 @@ code {
   border-radius: 5px;
   -moz-box-shadow: 0 0 5px rgb(196, 196, 196);
   -webkit-box-shadow: 0 0 5px rgb(196, 196, 196);
-  box-shadow: 0 0 5px rgb(196, 196, 196);
+  box-shadow: 0 0 10px rgb(196, 196, 196);
 }
   .img-container {
     width: 100px;
@@ -55,27 +55,27 @@ code {
   }
 
 .orange {
-  color: orange;
+  color: rgb(201, 170, 114);
 }
 
 .blue {
-  color: blue;
+  color: rgb(139, 139, 182);
 }
 
 .red {
-  color: red;
+  color: rgb(148, 100, 100);
 }
 
 .purple {
-  color: purple;
+  color: rgb(66, 45, 66);
 }
 
 .green {
-  color: green;
+  color: rgb(82, 100, 82);
 }
 
 .violet {
-  color: violet;
+  color: rgb(179, 146, 179);
 }
 
 .cardbox {
@@ -99,7 +99,7 @@ code {
   border-radius: 5px;
   -moz-box-shadow: 0 0 5px rgb(196, 196, 196);
   -webkit-box-shadow: 0 0 5px rgb(196, 196, 196);
-  box-shadow: 0 0 5px rgb(196, 196, 196);
+  box-shadow: 0 0 10px rgb(196, 196, 196);
 }
 
 a:link, a:visited { 
