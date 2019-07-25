@@ -101,3 +101,9 @@ code {
   -webkit-box-shadow: 0 0 5px rgb(196, 196, 196);
   box-shadow: 0 0 5px rgb(196, 196, 196);
 }
+
+a:link, a:visited { 
+  color: black;
+  text-decoration:none;
+  cursor: auto;
+}
